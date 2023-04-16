@@ -1,5 +1,3 @@
-export function differentSymbolsNaive(s: string): number {
+export const differentSymbolsNaive = (s: string): number => new Set(s.split('')).size
 
-}
-
-// console.log(differentSymbolsNaive('cabca'));
+console.log(differentSymbolsNaive('cabca'));

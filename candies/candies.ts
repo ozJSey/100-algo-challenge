@@ -1,5 +1,3 @@
-export function candies(n: number, m: number): number {
+export const candies = (n: number, m: number): number => Math.floor(m / n) * n;
 
-}
-
-// console.log(candies(3, 10));
+console.log(candies(3, 10));

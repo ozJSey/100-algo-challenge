@@ -1,5 +1,3 @@
-export function maxMultiple(divisor: number, bound: number): number {
+export const maxMultiple = (divisor: number, bound: number): number => Math.floor(bound / divisor) * divisor;
 
-}
-
-// console.log(maxMultiple(3,10));
+console.log(maxMultiple(3, 10));

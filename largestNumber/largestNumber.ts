@@ -1,5 +1,3 @@
-export function largestNumber(n: number): number {
+export const largestNumber = (n: number): number => +Array(n).fill(9).join('');
 
-}
-
-// console.log(largestNumber(2));
+console.log(largestNumber(2));
