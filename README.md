@@ -1,8 +1,5 @@
-<a href='https://www.YouTube.com/CodingTutorials360'>Check Out My YouTube Channel </a>
+# My solutions to 100AlgorithmsChallenge
 
-# 100AlgorithmsChallenge
+<a href='https://www.udemy.com/course/100-algorithms-challenge'>Check Out Dylan's The 100 Algorithm's Challenge Course</a>
 
-<a href='https://www.udemy.com/course/100-algorithms-challenge'>Check Out The 100 Algorithm's Challenge Course</a>
-
-<p>This is the setup for my Udemy Course: The 100 Algorithms Challenge: How to Ace the JavaScript Coding Interview.</p>
-<p>There are 100 algorithms with README instructions as well as the initial function setup with a few test cases.</p>
+<p>This is a clone from Dylans Udemy Course setup repository https://github.com/Dylan-Israel/100AlgorithmsChallenge</p>
